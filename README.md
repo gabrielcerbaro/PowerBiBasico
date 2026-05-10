@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/DAX-Análises-blue">
   <img src="https://img.shields.io/badge/Power%20Query-ETL-orange">
   <img src="https://img.shields.io/badge/SQL-Básico-blue">
-  <img src="https://img.shields.io/badge/Status-Em%20Andamento-green">
+  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen">
 </p>
 
 ---
@@ -39,9 +39,9 @@
 
 ## 📘 Sobre o Curso
 
-Neste curso estou aprendendo Power BI do básico ao avançado, explorando desde a transformação de dados até a criação de dashboards profissionais e ambientes completos de Business Intelligence.
+Neste curso aprendi Power BI do básico ao avançado, explorando desde a transformação de dados até a criação de dashboards profissionais e ambientes completos de Business Intelligence.
 
-O curso aborda modelagem de dados, ETL com Power Query, linguagem DAX, SQL básico e publicação de relatórios na web, utilizando práticas aplicadas ao ambiente corporativo.
+O curso abordou modelagem de dados, ETL com Power Query, linguagem DAX, SQL básico e publicação de relatórios na web, utilizando práticas aplicadas ao ambiente corporativo.
 
 ---
 
@@ -79,4 +79,4 @@ Desenvolver habilidades em análise de dados e Business Intelligence, criando da
 
 ## 🚀 Status
 
-📖 Curso em andamento — evoluindo em análise de dados e BI.
+✅ Curso finalizado.
